@@ -1,6 +1,6 @@
 # Bid-Calendar
 
-A VBA macro for Excel Calendar template that auto creates and finds folders within a SharePoint (or local) library based on calendar event name. Also uses Outlook VBA to send calendar event invites to a 365 group. Macro has the ability to search two separate folders for the project currently. 
+A VBA macro for Excel that auto creates and finds folders within a SharePoint (or local) library based on calendar event name. Also uses Outlook VBA to send calendar event invites to a 365 group. Macro has the ability to search two separate folders for the project currently. 
 
 ## Installation
 
